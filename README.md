@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antikkorps&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antikkorps&show_icons=true&theme=transparent)
 
 <img align="center" alt="Coding" width="400" margin="auto" src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 <h3 align="left">Languages and Tools:</h3>
