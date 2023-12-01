@@ -2,6 +2,17 @@
 
 ### Hi I'm Franck 👋
 
+I develop mainly in Vue.js and Nestjs. I have a strong background as a fullstack Javascript developer and I keep myself up to date with the latest frameworks and best practices.
+
+On the frontend side, I have over 2 years experience building reactive user interfaces with Vue components. I make sure to provide an optimal user experience by focusing on responsiveness, accessiblity and performances.
+
+On the backend, I leverage Nestjs to create scalable and maintainable APIs. I implement robust architectures using Typescript and modern patterns like SOLID principles. Testing and documentation are an integral part of my work.
+
+I also have experience working with Nuxt, TailwindCSS and Headless CMS like Strapi or Directus. I can handle deployments on platforms like Netlify or Vercel.
+
+I am appreciated for my eye to detail, my communication skills and my ability to estimate tasks accurately. 
+Let's talk about your project and see how I can provide value with my development skills!
+
 <!--
 **antikkorps/antikkorps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
