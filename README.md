@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antikkorps&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-![Work Actions](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" height="200" alt="code illustration"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
