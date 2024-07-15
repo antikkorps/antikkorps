@@ -72,7 +72,7 @@ En ce moment j'aime bien:
 et 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 
-<h3 align="left">Me contacter</h3>
+## Me contacter
 <p align="left">
 <a href="https://www.linkedin.com/in/franck-vienot-a0129a1a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 </p>
