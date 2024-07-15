@@ -74,7 +74,7 @@ et
 
 ### Me contacter
 <p align="left">
-<a href="https://www.linkedin.com/in/franck-vienot-a0129a1a0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/franck-vienot-a0129a1a0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="50" width="50" /></a>
 </p>
 
 ![Coding](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
