@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" height="300" alt="code illustration"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" height="200" alt="code illustration"/>
-<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="200" height="200" alt="typical day"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300" height="300" alt="code illustration"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="300" height="300" alt="typical day"/>
 </div>
 
 
