@@ -83,3 +83,39 @@ et
 <a href="https://www.linkedin.com/in/franck-vienot-a0129a1a0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="200" width="200" /></a>
 </p>
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <style>
+    .player { animation: bounce 1s infinite; cursor: pointer; }
+    .star { animation: twinkle 1.5s infinite; }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    @keyframes twinkle {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+  </style>
+  
+  <!-- Fond avec dégradé -->
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e" />
+      <stop offset="100%" style="stop-color:#16213e" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="200" fill="url(#skyGradient)" />
+  
+  <!-- Étoiles animées -->
+  <circle class="star" cx="50" cy="50" r="2" fill="white" />
+  <circle class="star" cx="150" cy="30" r="2" fill="white" />
+  <circle class="star" cx="250" cy="70" r="2" fill="white" />
+  <circle class="star" cx="350" cy="40" r="2" fill="white" />
+  
+  <!-- Personnage jouable -->
+  <g class="player">
+    <circle cx="200" cy="100" r="15" fill="#64ffda" />
+    <text x="200" y="106" text-anchor="middle" fill="#1a1a2e" font-size="16">▶</text>
+  </g>
+</svg>
+
