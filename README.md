@@ -1,18 +1,18 @@
 ![image](./github-header-image.png)
 
 
-### Hi I'm Franck 👋
+👋 Hi, I'm Franck!
 
-I develop mainly in Vue.js and Nestjs. I have a strong background as a fullstack Javascript developer and I keep myself up to date with the latest frameworks and best practices.
+Full-Stack JavaScript Developer specialized in **Vue.js** and robust backend architectures built with **Koa / Express** (Node.js). I craft modern, scalable, and high-performance applications.
 
-On the frontend side, I have over 2 years experience building reactive user interfaces with Vue components. I make sure to provide an optimal user experience by focusing on responsiveness, accessiblity and performances.
+#### 🛠️ Core Expertise:
 
-On the backend, I leverage Nestjs to create scalable and maintainable APIs. I implement robust architectures using Typescript and modern patterns like SOLID principles. Testing and documentation are an integral part of my work.
+* **Backend Architectures:** Koa/Express, creation of REST/GraphQL APIs. Strong focus on implementing **clean code architectures**, **TypeScript**, and **SOLID principles** for maintainable, scalable services.
+* **Frontend:** Vue components, Vue Router, Vuex/Pinia, Nuxt (SSR/SSG), TailwindCSS, focusing on Accessibility (A11Y) and UX/Performance.
+* **Databases & Tools:** Databases (PostgreSQL/MongoDB), Unit & E2E Testing (Jest), CI/CD, Headless CMS (Strapi, Directus).
+* **Deployment:** Netlify, Vercel, Docker.
 
-I also have experience working with Nuxt, TailwindCSS and Headless CMS like Strapi or Directus. I can handle deployments on platforms like Netlify or Vercel.
-
-I am appreciated for my eye to detail, my communication skills and my ability to estimate tasks accurately. 
-Let's talk about your project and see how I can provide value with my development skills!
+I'm committed to detail, clear communication, and accurate task estimation. Let's build something great together!
 
 <!--
 **antikkorps/antikkorps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
