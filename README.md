@@ -9,7 +9,7 @@ Full-Stack JavaScript Developer specialized in **Vue.js** and robust backend arc
 
 * **Backend Architectures:** Koa/Express, creation of REST/GraphQL APIs. Strong focus on implementing **clean code architectures**, **TypeScript**, and **SOLID principles** for maintainable, scalable services.
 * **Frontend:** Vue components, Vue Router, Vuex/Pinia, Nuxt (SSR/SSG), TailwindCSS, focusing on Accessibility (A11Y) and UX/Performance.
-* **Databases & Tools:** Databases (PostgreSQL/MongoDB), Unit & E2E Testing (Jest), CI/CD, Headless CMS (Strapi, Directus).
+* **Databases & Tools:** Databases (PostgreSQL/Mysql), Unit & E2E Testing (Jest), CI/CD, Headless CMS (Strapi, Directus).
 * **Deployment:** Netlify, Vercel, Docker.
 
 I'm committed to detail, clear communication, and accurate task estimation. Let's build something great together!
