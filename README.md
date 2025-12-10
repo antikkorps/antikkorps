@@ -80,5 +80,5 @@ et
 
 ### To contact me : 
 <p align="left">
-<a href="https://www.linkedin.com/in/franck-vienot-a0129a1a0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="200" width="200" /></a>
+<a href="https://www.linkedin.com/in/franck-vienot/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="" height="200" width="200" /></a>
 </p>
