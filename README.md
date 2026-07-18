@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Mes Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=antikkorps&show_icons=true&theme=radical)
-
 <div style="display: flex; justify-content: space-around;">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" height="200" alt="code illustration"/>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" height="200" alt="code illustration"/>
