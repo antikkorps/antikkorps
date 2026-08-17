@@ -1,6 +1,3 @@
-![image](./github-header-image.png)
-
-
 👋 Hi, I'm Franck!
 
 Full-Stack JavaScript Developer specialized in **Vue.js** and robust backend architectures built with **Koa / Express** (Node.js). I craft modern, scalable, and high-performance applications.
